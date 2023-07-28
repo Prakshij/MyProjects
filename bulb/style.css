@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    height:100vh ;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    background: #e6e6fa;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: black;
+
+    
+}
+
+.main-heading{
+  
+    
+}
+.main-heading h2{
+    margin-bottom: 20px;
+}
+button{
+    display: inline-block;
+    background: yellow;
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding:10px;
+    z-index: index 100000;
+
+}
+img{
+    width:300px;
+    height:180px
+}
